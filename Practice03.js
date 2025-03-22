@@ -14,3 +14,6 @@ function sub(a, b){
 console.log(sub(56, 34));
 console.log(sub(56, 90));
 console.log(sub(23, 90));
+
+console.log("\n");
+
