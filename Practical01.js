@@ -33,3 +33,6 @@ mysum(34, 24, 90, 45, 34);
 
 console.log("\n");
 
+const mySum2= (...n) => {return n.reduce((t, i) => t= t + i)};
+console.log(mySum2(5, 3, 9, 4, 8));
+console.log(mySum2(3, 9, 12, 8, 45));
