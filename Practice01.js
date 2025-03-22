@@ -13,3 +13,9 @@ app.get('/', (req, res)=>{
 app.get('/msg', (req, res)=>{
     res.send("Hello IT Students.");
 });
+
+// The app.listen() function starts the server and makes it listen for incoming connections on the specified port (3001).
+// A message (Server is running on 3001) is logged to the console to confirm the server is up and running.1  82
+app.listen(port, ()=> {
+    console.log(`Server is running on ${port}`);
+});
