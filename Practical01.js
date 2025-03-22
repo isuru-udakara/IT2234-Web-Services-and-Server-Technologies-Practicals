@@ -30,3 +30,6 @@ const mysum= (...n) => {
 };
 mysum(3, 4, 6, 7, 8);
 mysum(34, 24, 90, 45, 34);
+
+console.log("\n");
+
