@@ -3,3 +3,8 @@ const express= require("express");
 const app = express();
 // server will listen on port 3001
 const port = 3001;
+
+// When a client makes a GET request to /, the server responds with the text
+app.get('/', (req, res)=>{
+    res.send("Hello Express JS");
+});
