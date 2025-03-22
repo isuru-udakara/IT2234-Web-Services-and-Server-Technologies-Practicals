@@ -8,3 +8,5 @@ console.log(sum(23, 90));
 console.log(sum(34, 35));
 console.log(sum(90, 32));
 console.log(sum(89, 34));
+
+console.log("\n");
