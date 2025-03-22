@@ -18,3 +18,5 @@ console.log(mult(90));
 console.log(mult(y= 86));
 console.log(mult(x= 80));
 console.log(mult(90, 10));
+
+console.log("\n");
