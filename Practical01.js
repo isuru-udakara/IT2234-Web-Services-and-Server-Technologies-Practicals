@@ -20,3 +20,13 @@ console.log(mult(x= 80));
 console.log(mult(90, 10));
 
 console.log("\n");
+
+// takes n as an array of numbers
+const mysum= (...n) => {
+    let sum= 0;for(let ar of n){
+        sum += ar;
+    }
+    console.log(sum);
+};
+mysum(3, 4, 6, 7, 8);
+mysum(34, 24, 90, 45, 34);
