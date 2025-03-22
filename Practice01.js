@@ -8,3 +8,8 @@ const port = 3001;
 app.get('/', (req, res)=>{
     res.send("Hello Express JS");
 });
+
+// When a client makes a GET request to /msg, the server responds with the text
+app.get('/msg', (req, res)=>{
+    res.send("Hello IT Students.");
+});
