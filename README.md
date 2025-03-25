@@ -5,3 +5,6 @@
 
 ### Checking /msg GET request
 ![2](https://github.com/user-attachments/assets/8692f31c-6b14-495e-ac3f-588351a5cce2)
+
+### Installed nodemon for Express project
+![3](https://github.com/user-attachments/assets/9aa75c04-3bd7-4905-8bd0-c53c4d652232)
