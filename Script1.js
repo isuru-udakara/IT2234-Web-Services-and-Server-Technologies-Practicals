@@ -16,6 +16,18 @@ app.get('/stu', (req, res) => {
     res.send(students);
 });
 
+app.get('/stu/:id', (req, res) => {
+    const id= req.params.id;
+    const result= students.find(student => student.id == id);
+    // 
+    if(result != null){
+        res.send(result);
+    }else{
+        res.status(404).send("Student not found...");
+    }
+    
+});
+
 app.listen(port, ()=> {
     console.log(`Server is running on ${port}`);
 });
