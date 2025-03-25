@@ -2,6 +2,8 @@ const express= require("express");
 const app= express();
 const port= 3002;
 
+const students= require('./DB/Students.js');
+
 app.get('/', (req, res)=>{
     res.send("Hello Express JS");
 });
