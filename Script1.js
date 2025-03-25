@@ -28,6 +28,12 @@ app.get('/stu/:id', (req, res) => {
     
 });
 
+app.get('/stu/gender/:gen', (req, res) => {
+    const gender= req.params.gen;
+    const result= students.filter(student => student.Gender == gender);
+    res.send(result);
+});
+
 app.listen(port, ()=> {
     console.log(`Server is running on ${port}`);
 });
