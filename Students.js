@@ -5,3 +5,5 @@ let students= [
     {id: "2021ict207", Name: "Sphoia", Age: 23, Gender: "Female"},
     {id: "2021ict203", Name: "Neo", Age: 24, Gender: "Male"}
 ];
+
+module.exports=students;
