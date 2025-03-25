@@ -17,3 +17,6 @@
 
 ### check if a student is in the array using id
 ![Screenshot 2025-03-25 134844](https://github.com/user-attachments/assets/6ca4c978-402c-4974-9a0f-427e4e0e0975)
+
+### Get detauls of female students in the array 
+![female result](https://github.com/user-attachments/assets/09a2a17c-3fe1-41da-98e4-363670799fcf)
