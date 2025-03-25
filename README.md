@@ -13,4 +13,4 @@
 ![running server](https://github.com/user-attachments/assets/c00824d0-da18-4938-9bce-9e9993cf0990)
 
 ### Return student array using /stu GET request
-![check student](https://github.com/user-attachments/assets/c5cef3c6-d8aa-41fc-8bb7-f43bc840e4c7)
+![Screenshot 2025-03-25 134844](https://github.com/user-attachments/assets/6ca4c978-402c-4974-9a0f-427e4e0e0975)
