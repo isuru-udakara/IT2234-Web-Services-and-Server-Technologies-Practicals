@@ -8,6 +8,10 @@ function getPossiblePurchase(budget, keyboardPrices, mousePrices){
             if (total <= budget && total > maxTotal) {
                 maxTotal = total;
             }
+
+            if (maxTotal === budget) {
+                return budget;
+            }
         }
     }
 }
