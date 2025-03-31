@@ -1,7 +1,10 @@
 function getPossiblePurchase(budget, keyboardPrices, mousePrices){
+    let maxTotal = -1;
+
     for (const keyboardPrice of keyboardPrices) {
         for (const mousePrice of mousePrices) {
             const total = keyboardPrice + mousePrice;
+
         }
     }
 }
