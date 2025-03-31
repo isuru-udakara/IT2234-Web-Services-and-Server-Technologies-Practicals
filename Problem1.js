@@ -1,7 +1,7 @@
 function getPossiblePurchase(budget, keyboardPrices, mousePrices){
     for (const keyboardPrice of keyboardPrices) {
         for (const mousePrice of mousePrices) {
-            
+            const total = keyboardPrice + mousePrice;
         }
     }
 }
