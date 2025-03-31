@@ -1,5 +1,9 @@
 function getPossiblePurchase(budget, keyboardPrices, mousePrices){
-    
+    for (const keyboardPrice of keyboardPrices) {
+        for (const mousePrice of mousePrices) {
+            
+        }
+    }
 }
 
 console.log(getPossiblePurchase(60, [40, 50, 60], [5, 8, 12]));
