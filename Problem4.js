@@ -9,3 +9,7 @@ function HexSWC(digit) {
         default: return digit.toString();
     }
 }
+
+function decimalToHex(num, callback){
+    
+}
