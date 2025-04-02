@@ -24,3 +24,7 @@ function decimalToHex(num, callback){
     }
     return convert(num);
 }
+
+console.log(decimalToHex(255, HexSWC));  
+console.log(decimalToHex(16, HexSWC));   
+console.log(decimalToHex(0, HexSWC)); 
