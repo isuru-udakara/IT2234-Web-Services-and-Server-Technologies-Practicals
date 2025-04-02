@@ -18,3 +18,5 @@
 ### Answers for problem 03: 
 ![Screenshot 2025-04-02 190355](https://github.com/user-attachments/assets/30206119-3f80-467c-9cf7-38ff61c72201)
 
+## Problem 04: Decimal to Hexadecimal Conversion using recursion and callback function 
+![Screenshot 2025-04-02 192037](https://github.com/user-attachments/assets/3a092cd8-649f-41bb-9421-caaf86a92c40)
