@@ -8,3 +8,6 @@
 
 ## Problem 02: Identify Unique Programming Languages from JSON Data
 ![Screenshot 2025-04-02 185350](https://github.com/user-attachments/assets/7a111439-0ea9-40df-ad54-55e53cb871a7)
+
+### Answers for problem 02: 
+![Screenshot 2025-04-02 184347](https://github.com/user-attachments/assets/cb0ca0f7-d57f-4a18-828c-e0bc028955b0)
