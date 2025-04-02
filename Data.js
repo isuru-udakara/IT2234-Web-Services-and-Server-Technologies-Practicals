@@ -5,3 +5,5 @@ let students = [
     { regno: "2021/ICT/04", name: "Emma", age: 21, course: "Data Science", Pro_languages: ["Python", "R", "SQL"] },
     { regno: "2021/ICT/05", name: "Daniel", age: 22, course: "Cybersecurity", Pro_languages: ["Ruby", "Bash", "C"] }
   ];
+
+  module.exports = { students }; 
