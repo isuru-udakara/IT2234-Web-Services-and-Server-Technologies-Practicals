@@ -6,4 +6,5 @@
 ### Answers for problem 01: 
 ![Screenshot 2025-04-02 184935](https://github.com/user-attachments/assets/fd75843f-550c-48df-842b-4d419e87ca98)
 
-## Problem 02: 
+## Problem 02: Identify Unique Programming Languages from JSON Data
+![Screenshot 2025-04-02 185350](https://github.com/user-attachments/assets/7a111439-0ea9-40df-ad54-55e53cb871a7)
