@@ -6,6 +6,8 @@ function getUniqueLang(students){
             uniqueLanguages.add(language);
         });
     });
+
+    return Array.from(uniqueLanguages).sort();
 }
 
 
