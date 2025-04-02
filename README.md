@@ -13,3 +13,8 @@
 ![Screenshot 2025-04-02 184347](https://github.com/user-attachments/assets/cb0ca0f7-d57f-4a18-828c-e0bc028955b0)
 
 ## Problem 03: Rearrange Digits to Create Maximum Value
+![Screenshot 2025-04-02 190526](https://github.com/user-attachments/assets/145e605e-200c-4bd3-ac20-918c94fa35ab)
+
+### Answers for problem 03: 
+![Screenshot 2025-04-02 190355](https://github.com/user-attachments/assets/30206119-3f80-467c-9cf7-38ff61c72201)
+
