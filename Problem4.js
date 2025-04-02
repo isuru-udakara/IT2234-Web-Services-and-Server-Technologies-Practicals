@@ -11,5 +11,6 @@ function HexSWC(digit) {
 }
 
 function decimalToHex(num, callback){
-    
+    if (num < 0) return "Negative numbers not supported";
+    if (num === 0) return "0";
 }
