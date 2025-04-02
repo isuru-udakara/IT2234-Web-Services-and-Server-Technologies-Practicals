@@ -20,3 +20,6 @@
 
 ## Problem 04: Decimal to Hexadecimal Conversion using recursion and callback function 
 ![Screenshot 2025-04-02 192037](https://github.com/user-attachments/assets/3a092cd8-649f-41bb-9421-caaf86a92c40)
+
+### Answers for problem 04: 
+![Screenshot 2025-04-02 192021](https://github.com/user-attachments/assets/35cf4130-3f1c-4117-8599-47f4f3b91a69)
