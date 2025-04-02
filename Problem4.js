@@ -15,4 +15,11 @@ function decimalToHex(num, callback){
     if (num === 0) return "0";
 
     const hexDigits = [];
+
+    function convert(n) {
+        if (n === 0) return ""; // stop recursion
+        const remainder = n % 16;
+        // Use callback to convert remainder to hex digit
+        return convert(Math.floor(n / 16)) + callback(remainder);
+      }
 }
