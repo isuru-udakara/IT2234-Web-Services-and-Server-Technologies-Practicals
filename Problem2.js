@@ -1,8 +1,10 @@
+const students = require('./Data.js').students;
+
 function getUniqueLang(students){
     const uniqueLanguages = new Set();
 
     students.forEach(student => {
-        student.languages.forEach(language => {
+        student.Pro_languages.forEach(language => {
             uniqueLanguages.add(language);
         });
     });
@@ -10,5 +12,4 @@ function getUniqueLang(students){
     return Array.from(uniqueLanguages).sort();
 }
 
-
-const students = require('./Data.js').students;
+console.log(getUniqueLang(students));
