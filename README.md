@@ -11,3 +11,5 @@
 
 ### Answers for problem 02: 
 ![Screenshot 2025-04-02 184347](https://github.com/user-attachments/assets/cb0ca0f7-d57f-4a18-828c-e0bc028955b0)
+
+## Problem 03: Rearrange Digits to Create Maximum Value
