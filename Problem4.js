@@ -21,5 +21,6 @@ function decimalToHex(num, callback){
         const remainder = n % 16;
         // Use callback to convert remainder to hex digit
         return convert(Math.floor(n / 16)) + callback(remainder);
-      }
+    }
+    return convert(num);
 }
