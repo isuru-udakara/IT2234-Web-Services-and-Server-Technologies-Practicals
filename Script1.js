@@ -1,7 +1,7 @@
 // reading from a file
 
 const fs= require('fs');
-fs.readFile("file.txt", "utf-8", (err, data) => {
+fs.readFile("read.txt", "utf-8", (err, data) => {
     if(err){
         console.error(err);
         return 0;
