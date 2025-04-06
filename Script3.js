@@ -2,7 +2,7 @@ const fs = require('fs').promises;
 const readFile= async() => {
     try{
         const [data, data1]= await Promise.allSettled([
-            fs.readFile("file.txt", "utf-8"),
+            fs.readFile("read.txt", "utf-8"),
             fs.readFile("data.txt", "utf-8")
         ]);
         console.log(data.value);
