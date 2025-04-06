@@ -13,3 +13,4 @@ const readFile= async() => {
         console.error(err);
     }
 }
+readFile();
